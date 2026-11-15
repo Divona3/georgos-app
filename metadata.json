@@ -1,0 +1,6 @@
+{
+  "name": "Georgos",
+  "description": "Precision farming companion featuring digital farmer and land passports, satellite-backed agro-climate dashboards, cultivation calendars, leaf rewards, 3D geospatial land models, and seasonal crop rotation simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
